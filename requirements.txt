@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+passlib[argon2]
+python-jose[cryptography]
+pydantic
+qrcode[pil]
+argon2-cffi
+fastapi-cache2[redis]
