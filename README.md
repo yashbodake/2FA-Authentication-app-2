@@ -1,5 +1,5 @@
 # Vue FastAPI Auth App
-
+### Checkout the video on youtube - https://youtu.be/ru2LIY-_Vd4
 This is a full-stack web application with a Vue.js frontend and a FastAPI backend that provides user authentication with 2-Factor Authentication (2FA).
 
 ## Design: Vibrant Glass
