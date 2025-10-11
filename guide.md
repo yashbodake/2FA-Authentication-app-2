@@ -1,6 +1,5 @@
 ## A Simple Guide to Editing Your Application
 
-**Disclaimer:** This guide is intended for making simple visual changes to the application. Editing the code without any coding knowledge can easily break the application. Always make a backup of a file before you edit it.
 
 ### Project Overview
 
