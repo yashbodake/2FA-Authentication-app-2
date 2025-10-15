@@ -1,6 +1,6 @@
 # Vue FastAPI Auth App
-### Checkout the video on youtube - https://youtu.be/ru2LIY-_Vd4
-### for using docker use the steps mentioned in Docker_Setup_Guide.md or see this video https://youtu.be/ffb8pCyS59w?si=rn0RrgS_eKVYSrXw     
+### Checkout the video on youtube - https://youtu.be/o47KFFza8J0
+     
 This is a full-stack web application with a Vue.js frontend and a FastAPI backend that provides user authentication with 2-Factor Authentication (2FA).
 
 ## Design: Vibrant Glass
